@@ -1,0 +1,17 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://example.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: John Doe
+simple_search: http://google.com/search
+description:
+
+root: /
+source: source
+destination: public
+plugins: plugins
+
+pygments: false # default python pygments have been replaced by pygments.rb
